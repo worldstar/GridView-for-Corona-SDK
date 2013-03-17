@@ -14,7 +14,8 @@ You can control the GridView position, and how many columns are shown in each ro
 Go ahead to apply this library in your project.
 
 Only few line, you can show the GridView perfectly.
-  --Include the gridView library
+
+  	--Include the gridView library
 	local gridView = require("gridView")
 
 	--Data
